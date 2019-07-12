@@ -1,0 +1,24 @@
+{
+  "projectName": "zaragoza",
+  "projectOwner": "comunidad-tecnologica",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "merybere",
+      "name": "María Berenguer",
+      "avatar_url": "https://pbs.twimg.com/profile_images/485856222877597696/Ha6EGb2g_400x400.jpeg",
+      "profile": "https://es.linkedin.com/in/mariaberenguer/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
